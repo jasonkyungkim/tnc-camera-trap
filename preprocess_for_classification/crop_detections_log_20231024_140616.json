@@ -1,0 +1,8 @@
+{
+ "images_missing_detections": [],
+ "images_failed_download_or_crop": [
+  "Set1/1.07-Red_Brocket_Deer/SEQ86325/SEQ86325_IMG_0001.JPG"
+ ],
+ "num_new_downloads": 0,
+ "num_new_crops": 19052
+}
